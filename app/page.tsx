@@ -214,7 +214,7 @@ export default function BeekeepingServices() {
         </div>
         <div className="mb-8">
           <Image
-            src="/Bee.png"
+            src="/bee.png"
             alt="Cute Bee"
             width={48}
             height={48}
